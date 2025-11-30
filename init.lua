@@ -15,7 +15,7 @@
 core.register_craftitem("ghoti_coin:gold_coin", {
     description = "Gold Coin",
     inventory_image = "gold_coin.png",
-    stack_max = 100
+    stack_max = 1000
 })
 
 print("[OK] Ghoti Coin Loaded!...")
